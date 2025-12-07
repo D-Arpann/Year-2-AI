@@ -1,2 +1,2 @@
-# AI
-AI workshop submission
+# Concepts of AI
+Worksheet submission
